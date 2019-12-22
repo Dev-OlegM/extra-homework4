@@ -1,0 +1,20 @@
+body {
+  color: #212121;
+  font-display: fallback;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+header .logo {
+  font-size: 18px;
+}
+
+header .link {
+  text-decoration: none;
+  color: #212121;
+}
+
+header .link:hover,
+header .link:focus {
+  color: #2196f3;
+}
